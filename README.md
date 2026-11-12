@@ -130,9 +130,6 @@ Tests use a fake LLM, so they run offline and use no API quota.
 - Inputs are limited to 20,000 characters each.
 - No OCR for scanned PDFs.
 
-## License
-
-Add a license (for example MIT) and link it here.
 
 ## 🧑‍💻 Author
 
