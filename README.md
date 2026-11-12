@@ -139,5 +139,4 @@ Add a license (for example MIT) and link it here.
 **Kesava Pavan Gadde**
 
 - 📧 [kesavapavangadde@gmail.com](mailto:kesavapavangadde@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/<your-linkedin-id>)
-- 🐙 [GitHub](https://github.com/<your-username>)
+- 💼 [LinkedIn]([https://linkedin.com/in/<your-linkedin-id>](https://www.linkedin.com/in/kesava-pavan-gadde/))
