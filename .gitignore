@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+eval_results.csv
+eval_data/resume.txt
